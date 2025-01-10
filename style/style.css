@@ -69,6 +69,7 @@ button.button:hover {
 .banner-titals h3 {
   padding: 10px 0px;
   color: #3333337c;
+  text-shadow: 1px 3px 2px;
 }
 .banner-titals h1 {
   font-size: 50px;
