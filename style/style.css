@@ -108,7 +108,6 @@ button.button:hover {
 }
 .Vision-tital p {
   color: #242424a6;
-  font-family: emoji;
 }
 .Vision-box {
   width: 353px;
@@ -130,7 +129,7 @@ button.button:hover {
   margin-top: -9px;
 }
 .Vision-boxs p {
-  font-size: 12px;
+  font-size: 15px;
   color: #242424a6;
   margin-bottom: 20px;
 }
@@ -202,7 +201,7 @@ section#Quote-Section {
   position: absolute;
 }
 .Quote p {
-  font-size: 20px;
+  font-size: 16px;
   margin-top: 10px;
 }
 .Quote h3 {
