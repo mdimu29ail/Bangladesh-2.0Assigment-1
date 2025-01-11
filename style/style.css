@@ -216,7 +216,15 @@ section#Quote-Section {
   color: crimson;
   font-size: 23px;
 }
-
+.bak-color {
+  background: white;
+}
+.bak-color:first-child {
+  background: white;
+}
+.bak-color:last-child {
+  background: white;
+}
 /* Matter style */
 #Your-Opinion-Matters {
   margin-top: 50px;
